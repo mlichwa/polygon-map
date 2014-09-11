@@ -8,3 +8,4 @@ The project is structured to be easily modifiable.
 Uses:
 
 rwdImageMaps.js
+https://github.com/stowball/jQuery-rwdImageMaps
